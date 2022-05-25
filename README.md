@@ -6,7 +6,7 @@ https://github.com/dpeschka/thinfilm-freeboundary
 
 but in higher dimensions using higher-order methods in space and in time.
 
-The general problem solved is to find a function $h(t):\omega\to\mathbb{R}$ and a time-dependent set $\omega(t)\in\mathbb{R}^2$ such that
+The general problem solved is to find a function $h(t):\omega\to\mathbb{R}$ and a time-dependent set $\omega(t)\subset\mathbb{R}^2$ such that
 
 $$
 \partial_t h - \nabla\cdot (m(h)\nabla\pi) = 0, \qquad \pi=-\sigma\nabla^2 h + \partial_h (hf)
