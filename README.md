@@ -18,7 +18,7 @@ $$
 \partial_t h + n(\nabla h)|\nabla h|^2\zeta^2 =0, \qquad \zeta=|\nabla h|^{-1}(-\tfrac{\sigma}{2}|\nabla h|^2 + s)
 $$
 
-for all $x\in\partial\omega(t)$ with kinematic condition $\partial_t h + \dot{x}\cdot\nabla h=0$. This evolution is a gradient flow for the energy
+for all $x\in\partial\omega(t)$ with kinematic condition $\partial_t h + \dot{x}\cdot\nabla h=0$ emerging from $h(t)=0$ on $\partial\omega(t)$. This evolution is a gradient flow for the energy
 
 $$
 \mathcal{E}(q) = \int_\omega \tfrac{\sigma}{2}|\nabla h|^2 + s + h f(x,h)\,{\rm d}x,
